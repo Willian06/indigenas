@@ -52,7 +52,7 @@ h1 {
 
 .tecla.ativa,
 .tecla:active {
-  background-color: var(--preta);
+  background-image: url(../images/ilustracao-vetorial-de-chefe-indio_88879-95.jpg);
   border: 4px solid  var(--preta);
   box-shadow: 3px 3px 0 var(--azul) inset;
   color: var(--branca);
@@ -69,3 +69,4 @@ h1 {
 .tecla:active:focus {
   box-shadow: 3px 3px 0 var(--azul) inset, 1px 1px 10px var(--luz);
 }
+background-color: var(--preta);
